@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from mean_var_std import calculate
 import matplotlib.pyplot as plt
 
@@ -31,3 +32,6 @@ plt.ylabel("Mean Value")
 
 plt.tight_layout()
 plt.show()
+=======
+
+>>>>>>> 8d65f4d67de42c2dba337029389067dbbceda1f0
